@@ -48063,10 +48063,10 @@ k=t.S
 j=t.PA
 i=B.ah([0,A.cV,1,A.ju,2,A.cV],k,j)
 h=B.b([B.cr("Mengetahui:",A.aQ,8,!0),B.c3(A.dg,B.ap("Diperiksa Oleh:",e,e,B.c8(e,e,e,e,e,e,e,e,e,A.al,e,e,8,e,A.aO,e,!0,e,e,e,e),A.aQ),e,e,e,e,e,e),B.cr("Teller",A.aQ,8,!0)],r)
-g=B.aiP(f.as,"BM 14812",85,25)
+g=B.aiP(f.as,"",85,25)
 j=B.ah([0,A.cV,1,A.cV],k,j)
 k=t.nk
-return B.c3(e,B.eF(B.b([new B.nj(A.dg,A.VK,s),q,p,o,new B.bd(e,6,e),B.eF(B.b([n,new B.bd(e,3,e),m,new B.bd(e,3,e),B.iQ(l,B.b([new B.c2(h,e),new B.c2(B.b([g,B.iQ(new B.iR(A.a8,new B.f8(A.bA,1,A.cC),A.a8,A.a8,A.a8,A.a8),B.b([new B.c2(B.b([B.aiP(f.ax,"GB Spv",85,25),B.aiP(f.at,"MKA",85,25)],r),e)],k),j,A.cO),B.aiP(f.ay,"GB Staff",85,25)],r),e)],k),i,A.cO)],r),A.bZ,A.aw)],r),A.bZ,A.aw),e,d,e,e,A.a2V,e)},
+return B.c3(e,B.eF(B.b([new B.nj(A.dg,A.VK,s),q,p,o,new B.bd(e,6,e),B.eF(B.b([n,new B.bd(e,3,e),m,new B.bd(e,3,e),B.iQ(l,B.b([new B.c2(h,e),new B.c2(B.b([g,B.iQ(new B.iR(A.a8,new B.f8(A.bA,1,A.cC),A.a8,A.a8,A.a8,A.a8),B.b([new B.c2(B.b([B.aiP(f.ax,"",85,25),B.aiP(f.at,"",85,25)],r),e)],k),j,A.cO),B.aiP(f.ay,"",85,25)],r),e)],k),i,A.cO)],r),A.bZ,A.aw)],r),A.bZ,A.aw),e,d,e,e,A.a2V,e)},
 $S:494}
 B.aiJ.prototype={
 $2(a,b){return a+A.l.b5(b.d,100)*100*b.a},
