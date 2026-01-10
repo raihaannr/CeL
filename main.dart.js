@@ -47659,19 +47659,19 @@ q=s==null
 p=q?k:s.a
 if(p==null)p=""
 s=q?k:s.c
-if(s==null)s="Supervisor"
+if(s==null)s=""
 q=i.c
 o=q==null
 n=o?k:q.a
 if(n==null)n=""
 q=o?k:q.c
-if(q==null)q="Teller"
+if(q==null)q=""
 o=i.f
 m=o==null
 l=m?k:o.a
 if(l==null)l=""
 o=m?k:o.c
-return new B.a5i(d,e,c,r,f,p,s,n,q,l,o==null?"Checker":o)},
+return new B.a5i(d,e,c,r,f,p,s,n,q,l,o==null?"":o)},
 ajW(a){var s=B.cQ(a,!1,t.K),r=this.U1(a),q=B.e0("dd-MM-yyyy",null).c2(s.a),p=s.b
 B.lM("BAP KAS "+q+" "+(A.t.dI(A.l.k(p.a),2,"0")+"."+A.t.dI(A.l.k(p.b),2,"0")),new B.acp(s,r))},
 ajV(a){var s=B.ki(new B.aco(this.U1(a)),null,t.z)
